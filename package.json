@@ -1,0 +1,16 @@
+{
+  "name": "randoname",
+  "version": "1.0.0",
+  "description": "outputs a random name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "name",
+    "json",
+    "random"
+  ],
+  "author": "TomHacker",
+  "license": "ISC"
+}
